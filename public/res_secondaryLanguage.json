@@ -1,116 +1,151 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Hello, I'm Oh Minyong, the developer of Flutter!",
+    "description": "👋 I usually develop Flutter and I am very interested in developing mobile apps. ⭐ I learned about the overall application flow and how it works while working on several projects with Flutter. ✨ I'd like to learn about efficient backend communication and efficient development methods, and I'd like to study native languages such as Kotlin and Swift. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Dimipay",
+      "startDate": "2021",
+      "description": "It is a mobile canteen payment fintech service.",
+      "images": [
+        "images/portfolio/dimipay/p1.png"
+      ],
+      "url": "https://dimipay.io/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+   
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Glint",
+      "startDate": "2022",
+      "description": "Glint is a self-improvement SNS service.",
+      "images": [
+        "images/portfolio/glint/icon.png"
+      
+      
+      ],
+      "url": "https://dot-line-20.github.io/glint-flutter/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+       
+      ]
+    },
+    {
+      "title": "BackUp",
+      "startDate": "2022",
+      "description": "BackUp is a service that records the behind-the-scenes of photos that you want to remember.",
+      "images": [          
+        "images/portfolio/backup/mockup.png"
+
+      ],
+      "url": "https://dhalsdyd.github.io/backup/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "비즈쿨",
+      "title": "비즈쿨 창업영재 새싹캠프 2021 장려상",
+      "years": "2021.08 - 2021.11",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+        "Flutter",
+        "Getx",
+        "문화재청 API",
+        "Google API"
+     
+      ]
+    },
+    {
+      "company": "ACCEL",
+      "title": "KAIST IP CEO & CNAI ACCEL 해커톤 특별상",
+      "years": "2021.11",
+      "mainTech": [
+        "AI"
+      ],
+      "technologies": [
+        "AI"
+        
+     
+      ]
+    },
+    {
+      "company": "DACON",
+      "title": "[한양대 에리카] 퇴근시간 버스승차인원 예측 AI 경진대회 대상",
+      "years": "2021.11",
+      "mainTech": [
+        "AI"
+      ],
+      "technologies": [
+        "Tensorflow",
+        "Python"
+
+      ]
+    },
+    {
+      "company": "DACON",
+      "title": "[연암공대] 퇴근시간 버스승차인원 예측 AI 경진대회 노력상",
+      "years": "2021.11",
+      "mainTech": [
+        "AI"
+      
+      ],
+      "technologies": [
+        "Tensorflow",
+        "Python"
+
+     
+      ]
+    },
+    {
+      "company": "삼성",
+      "title": "삼성 주니어 소프트웨어 창작대회 개발상",
+      "years": "2022.06 - 2022.08",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+        "Flutter",
+        "Getx",
+        "NFC",
+        "Barcode",
+        "Google Map API"
+     
+      ]
+    },
+    {
+      "company": "융기원",
+      "title": "우리가 바꾸는 경기 프로젝트 차세대융합기술원상장 (장려상)",
+      "years": "2022.04 - 2022.09",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+
+     
+      ]
+    }
+    
+  ]
+}

@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "안녕하세요 Flutter 개발자 오민용입니다!",
+      "description": "👋 저는 주로 Flutter를 개발하며 모바일 앱 개발에 관심이 많습니다. ⭐ Flutter로 여러 프로젝트를 진행해보며 전반적인 어플리케이션 플로우와 동작 방식을 알게되었습니다. ✨ 저는 현재 효율적인 백엔드 통신과 효율적인 개발방법에 대해 알고 싶고 Kotlin, Swift같은 네이티브 언어도 공부해보고 싶습니다. 감사합니다. 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,108 +11,141 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Dimipay",
+        "startDate": "2021",
+        "description": "모바일 매점 결제 핀테크 서비스입니다.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/dimipay/p1.png"
         ],
-        "url": "",
+        "url": "https://dimipay.io/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
           }
+     
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Glint",
+        "startDate": "2022",
+        "description": "Glint는 자기계발형 SNS 서비스입니다.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/glint/icon.png"
+        
+        
         ],
-        "url": "https://github.com",
+        "url": "https://dot-line-20.github.io/glint-flutter/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
           }
+         
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+        "title": "BackUp",
+        "startDate": "2022",
+        "description": "BackUp은 기억하고 싶은 사진의 비하인드를 영상으로 녹화하는 서비스입니다.",
+        "images": [          
+          "images/portfolio/backup/mockup.png"
+
         ],
-        "url": "https://github.com",
+        "url": "https://dhalsdyd.github.io/backup/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "비즈쿨",
+        "title": "비즈쿨 창업영재 새싹캠프 2021 장려상",
+        "years": "2021.08 - 2021.11",
         "mainTech": [
-          "Angular 8/9/10"
+          "Flutter"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Flutter",
+          "Getx",
+          "문화재청 API",
+          "Google API"
+       
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "ACCEL",
+        "title": "KAIST IP CEO & CNAI ACCEL 해커톤 특별상",
+        "years": "2021.11",
         "mainTech": [
-          "Angular 7/8"
+          "AI"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "AI"
+          
+       
+        ]
+      },
+      {
+        "company": "DACON",
+        "title": "[한양대 에리카] 퇴근시간 버스승차인원 예측 AI 경진대회 대상",
+        "years": "2021.11",
+        "mainTech": [
+          "AI"
+        ],
+        "technologies": [
+          "Tensorflow",
+          "Python"
+  
+        ]
+      },
+      {
+        "company": "DACON",
+        "title": "[연암공대] 퇴근시간 버스승차인원 예측 AI 경진대회 노력상",
+        "years": "2021.11",
+        "mainTech": [
+          "AI"
+        
+        ],
+        "technologies": [
+          "Tensorflow",
+          "Python"
+  
+       
+        ]
+      },
+      {
+        "company": "삼성",
+        "title": "삼성 주니어 소프트웨어 창작대회 개발상",
+        "years": "2022.06 - 2022.08",
+        "mainTech": [
+          "Flutter"
+        ],
+        "technologies": [
+          "Flutter",
+          "Getx",
+          "NFC",
+          "Barcode",
+          "Google Map API"
+       
+        ]
+      },
+      {
+        "company": "융기원",
+        "title": "우리가 바꾸는 경기 프로젝트 차세대융합기술원상장 (장려상)",
+        "years": "2022.04 - 2022.09",
+        "mainTech": [
+          "Flutter"
+        ],
+        "technologies": [
+ 
+       
         ]
       }
+      
     ]
   }
