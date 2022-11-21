@@ -1,0 +1,151 @@
+{
+  "basic_info": {
+    "description_header": "Hello, I'm Oh Minyong, the developer of Flutter!",
+    "description": "👋 I usually develop Flutter and I am very interested in developing mobile apps. ⭐ I learned about the overall application flow and how it works while working on several projects with Flutter. ✨ I'd like to learn about efficient backend communication and efficient development methods, and I'd like to study native languages such as Kotlin and Swift. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Dimipay",
+      "startDate": "2021",
+      "description": "It is a mobile canteen payment fintech service.",
+      "images": [
+        "images/portfolio/dimipay/p1.png"
+      ],
+      "url": "https://dimipay.io/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+   
+      ]
+    },
+    {
+      "title": "Glint",
+      "startDate": "2022",
+      "description": "Glint is a self-improvement SNS service.",
+      "images": [
+        "images/portfolio/glint/icon.png"
+      
+      
+      ],
+      "url": "https://dot-line-20.github.io/glint-flutter/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+       
+      ]
+    },
+    {
+      "title": "BackUp",
+      "startDate": "2022",
+      "description": "BackUp is a service that records the behind-the-scenes of photos that you want to remember.",
+      "images": [          
+        "images/portfolio/backup/mockup.png"
+
+      ],
+      "url": "https://dhalsdyd.github.io/backup/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "비즈쿨",
+      "title": "비즈쿨 창업영재 새싹캠프 2021 장려상",
+      "years": "2021.08 - 2021.11",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+        "Flutter",
+        "Getx",
+        "문화재청 API",
+        "Google API"
+     
+      ]
+    },
+    {
+      "company": "ACCEL",
+      "title": "KAIST IP CEO & CNAI ACCEL 해커톤 특별상",
+      "years": "2021.11",
+      "mainTech": [
+        "AI"
+      ],
+      "technologies": [
+        "AI"
+        
+     
+      ]
+    },
+    {
+      "company": "DACON",
+      "title": "[한양대 에리카] 퇴근시간 버스승차인원 예측 AI 경진대회 대상",
+      "years": "2021.11",
+      "mainTech": [
+        "AI"
+      ],
+      "technologies": [
+        "Tensorflow",
+        "Python"
+
+      ]
+    },
+    {
+      "company": "DACON",
+      "title": "[연암공대] 퇴근시간 버스승차인원 예측 AI 경진대회 노력상",
+      "years": "2021.11",
+      "mainTech": [
+        "AI"
+      
+      ],
+      "technologies": [
+        "Tensorflow",
+        "Python"
+
+     
+      ]
+    },
+    {
+      "company": "삼성",
+      "title": "삼성 주니어 소프트웨어 창작대회 개발상",
+      "years": "2022.06 - 2022.08",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+        "Flutter",
+        "Getx",
+        "NFC",
+        "Barcode",
+        "Google Map API"
+     
+      ]
+    },
+    {
+      "company": "융기원",
+      "title": "우리가 바꾸는 경기 프로젝트 차세대융합기술원상장 (장려상)",
+      "years": "2022.04 - 2022.09",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+
+     
+      ]
+    }
+    
+  ]
+}

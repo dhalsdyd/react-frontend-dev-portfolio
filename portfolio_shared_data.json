@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "OH MIN YONG",
+      "titles": [ "Front-end Developer", "Flutter Engineer", "In KDMHS", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/dhalsdyd",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/minddong4992",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "오민용.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "95"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "80"
+        },
+        {
+          "name": "C/C++",
+          "class": "devicon-c-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Typescript",
+          "class": "devicon-typescript-original",
+          "level": "75"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },
+        {
+          "name": "vscode",
+          "class": "devicon-vscode-plain",
+          "level": "65"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
